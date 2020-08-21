@@ -1,0 +1,1 @@
+implementation of internal css in html.
